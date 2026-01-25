@@ -88,10 +88,9 @@
 > If streak card doesn't load sometimes, it's due to GitHub API limits (temporary).
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Csushobhit&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=Csushobhit&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
