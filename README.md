@@ -83,14 +83,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-> If streak card doesn't load sometimes, it's due to GitHub API limits (temporary).
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Csushobhit&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</div>
 
 
 ---
