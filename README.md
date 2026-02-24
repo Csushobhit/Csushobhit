@@ -123,9 +123,10 @@ Status: Building Future
 
 <p align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=00FFC6&background=000000&width=700&height=220&vCenter=false&repeat=true&lines=%24+whoami;Sushobhit+Chattaraj;%24+role;Software+Engineer+%7C+Java+Developer;%24+focus;AI%2FML+%7C+Java+Development+%7C+Cybersecurity;%24+status;Building+cool+stuff...;%20;%20"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=00FFC6&background=000000&width=700&height=220&vCenter=false&repeat=true&multiline=true&lines=%24%20whoami%0ASushobhit%20Chattaraj%0A%24%20role%0ASoftware%20Engineer%20%7C%20Java%20Developer%0A%24%20focus%0AAI%2FML%20%7C%20Java%20Development%20%7C%20Cybersecurity%0A%24%20status%0ABuilding%20cool%20stuff..." />
 
 </p>
+
 
 
 ---
