@@ -123,7 +123,7 @@ Status: Building Future
 
 <p align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=00FFC6&background=000000&width=700&height=220&vCenter=false&repeat=true&multiline=true&lines=%24%20whoami%0ASushobhit%20Chattaraj%0A%24%20role%0ASoftware%20Engineer%20%7C%20Java%20Developer%0A%24%20focus%0AAI%2FML%20%7C%20Java%20Development%20%7C%20Cybersecurity%0A%24%20status%0ABuilding%20cool%20stuff..." />
+<img src="assets/terminal.svg">
 
 </p>
 
