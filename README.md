@@ -121,7 +121,7 @@ Status: Building Future
 
 # ⚡ TERMINAL
 
-<img src="assets/terminal.svg"/>
+<img src="assets/terminal.svg?v=2"/>
 
 
 
