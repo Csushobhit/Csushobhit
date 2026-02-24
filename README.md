@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sushobhit%20Chattaraj&fontSize=42&fontColor=ffffff" />
-
+      
 </div>
 
 <div align="center">
