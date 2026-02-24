@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F1F,100:00FFC6&height=240&section=header&text=Sushobhit%20Chattaraj&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=38"/>
 </p>
 
----
+
 
 <!-- MATRIX TYPING -->
 
@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Builder;AIML+Engineer"/>
 </p>
 
----
+
 
 <!-- BADGES -->
 
@@ -26,7 +26,7 @@
 
 </p>
 
----
+
 
 # ⚡ SYSTEM STATUS
 
@@ -39,7 +39,6 @@ Skills: [AI/ML, Java, Threat Intel, Backend, Systems]
 Status: Building Future
 ```
 
----
 
 # 🧠 TECH STACK
 
@@ -49,7 +48,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # 📊 LIVE STATS
 
@@ -61,7 +60,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # 🧬 3D CONTRIBUTION GRAPH
 
@@ -71,7 +70,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # 📈 ACTIVITY GRAPH
 
@@ -81,7 +80,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -91,7 +90,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # 🧩 LEETCODE
 
@@ -101,7 +100,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # 🌐 CONNECT
 
@@ -117,7 +116,7 @@ Status: Building Future
 
 </p>
 
----
+
 
 # ⚡ TERMINAL
 
@@ -126,7 +125,7 @@ Status: Building Future
 
 
 
----
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
