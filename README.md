@@ -9,7 +9,7 @@
 <!-- MATRIX TYPING -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Builder;AIML Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Builder;AIML+Engineer"/>
 </p>
 
 ---
@@ -108,15 +108,11 @@ Status: Building Future
 <p align="center">
 
 <a href="https://linkedin.com/in/sushobhit-chattaraj-410b2a253">
-
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-
 </a>
 
 <a href="mailto:Sushobhit.Chattaraj2022@iem.edu.in">
-
 <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
-
 </a>
 
 </p>
@@ -127,10 +123,9 @@ Status: Building Future
 
 <p align="left">
 
-<img src="https://readme-terminal.vercel.app/api?width=700&height=220&theme=dark&fontSize=14&cmd=$ whoami~Sushobhit Chattaraj~$ role~Software Engineer | Java Developer~$ focus~AI/ML | Java Development | Cybersecurity~$ status~Building cool stuff..." />
+<img src="https://readme-terminal.vercel.app/api?width=700&height=220&theme=dark&fontSize=14&cmd=%24%20whoami~Sushobhit%20Chattaraj~%24%20role~Software%20Engineer%20%7C%20Java%20Developer~%24%20focus~AI%2FML%20%7C%20Java%20Development%20%7C%20Cybersecurity~%24%20status~Building%20cool%20stuff..."/>
 
 </p>
-
 
 ---
 
