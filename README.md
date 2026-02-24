@@ -1,95 +1,146 @@
-<div align="center">
+<!-- MATRIX HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sushobhit%20Chattaraj&fontSize=42&fontColor=ffffff" />
-      
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C9FF&center=true&vCenter=true&width=750&lines=Final-year+CSE(AI)+%40+IEM+Kolkata;Python+%7C+C%2B%2B+%7C+Java;AI%2FML+%7C+Deep+Learning+%7C+NLP;Ex-Research+Intern+%40+IEDC;Exploring+Cybersecurity+%26+Threat+Intel" />
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F1F,100:00FFC6&height=240&section=header&text=Sushobhit%20Chattaraj&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- MATRIX TYPING -->
 
-- 🎓 Final-year **B.Tech CSE (AI)** @ **Institute of Engineering and Management, Kolkata**
-- 💡 Aspiring **Software Engineer** with hands-on experience in **AI/ML systems & data-driven development**
-- 🧠 Worked on **NLP, Deep Learning, Recommender Systems, and Generative AI**
-- 🔬 **Ex-Research Intern @ IEDC (IEM Kolkata)** — Sentiment Analysis Fusion + real-time Tkinter-based application
-- 🛡️ Exploring **Cybersecurity & Threat Intelligence** (MISP, Maltrail, OTX, VirusTotal)
-- 🚀 Always building, learning, and shipping projects
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=AI+Engineer;Cybersecurity+Researcher;Threat+Intelligence+Builder;OpenSearch+%7C+MISP+%7C+Maltrail;Future+FAANG+Engineer" />
+</p>
 
 ---
 
-<div align="center">
+<!-- BADGES -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-4b53pfjds-csushobhits-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushobhit-chattaraj-410b2a253/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sushobhit.Chattaraj2022@iem.edu.in)
+<p align="center">
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=csushobhit&label=VISITORS&color=00ffc6&style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/github/followers/csushobhit?style=for-the-badge&color=00ffc6"/>
 
-## 🧩 Tech Stack
+<img src="https://img.shields.io/github/stars/csushobhit?style=for-the-badge&color=00ffc6"/>
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-
-### 🌐 Web / Backend
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### 🗄️ Databases / Search
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white)
-
-### 🤖 AI / ML / Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-### 🛡️ Threat Intelligence (Basics)
-![MISP](https://img.shields.io/badge/MISP-1E1E1E?logo=securityscorecard&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?logo=virustotal&logoColor=white)
-![OTX](https://img.shields.io/badge/AlienVault%20OTX-00B4FF?logo=alienware&logoColor=white)
-![Maltrail](https://img.shields.io/badge/Maltrail-2C2C2C?logo=linux&logoColor=white)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+# ⚡ SYSTEM STATUS
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=csushobhit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csushobhit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
----
-
-
+```yaml
+Name: Sushobhit Chattaraj
+Role: AI Engineer
+Focus: Cybersecurity
+OS: Linux
+Skills: [AI, Threat Intel, Backend, Systems]
+Status: Building Future
+```
 
 ---
 
-<div align="center">
+# 🧠 TECH STACK
 
-⭐ **If you like what I build, feel free to connect and collaborate!**
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,aws,mysql,mongodb,flask,tensorflow,pytorch,html,css&theme=dark"/>
+
+</p>
+
+---
+
+# 📊 LIVE STATS
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=csushobhit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=csushobhit&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
+
+</p>
+
+---
+
+# 🧬 3D CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csushobhit&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=csushobhit&theme=react-dark&bg_color=000000&color=00FFC6&line=00FFC6&point=FFFFFF"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/csushobhit/csushobhit/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=csushobhit&theme=matrix&no-frame=true&no-bg=true"/>
+
+</p>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sushobhit-chattaraj-410b2a253">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+
+</a>
+
+<a href="mailto:Sushobhit.Chattaraj2022@iem.edu.in">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+
+</a>
+
+</p>
+
+---
+
+# ⚡ TERMINAL
+
+```bash
+> whoami
+Sushobhit Chattaraj
+
+> skills --list
+AI
+Cybersecurity
+Backend
+Threat Intelligence
+
+> status
+Building cool stuff...
+```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
+</p>
