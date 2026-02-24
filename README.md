@@ -56,7 +56,7 @@ Status: Building Future
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=csushobhit&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=csushobhit&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csushobhit&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
