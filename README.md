@@ -123,9 +123,10 @@ Status: Building Future
 
 <p align="left">
 
-<img src="https://readme-terminal.vercel.app/api?width=700&height=220&theme=dark&fontSize=14&cmd=%24%20whoami~Sushobhit%20Chattaraj~%24%20role~Software%20Engineer%20%7C%20Java%20Developer~%24%20focus~AI%2FML%20%7C%20Java%20Development%20%7C%20Cybersecurity~%24%20status~Building%20cool%20stuff..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=00FFC6&background=000000&width=700&height=220&vCenter=false&repeat=true&lines=%24+whoami;Sushobhit+Chattaraj;%24+role;Software+Engineer+%7C+Java+Developer;%24+focus;AI%2FML+%7C+Java+Development+%7C+Cybersecurity;%24+status;Building+cool+stuff...;%20;%20"/>
 
 </p>
+
 
 ---
 
