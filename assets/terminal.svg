@@ -2,30 +2,75 @@
 
 <style>
 
-.text { font-family: monospace; font-size: 16px; fill: #00FFC6; }
-.cursor { fill: #00FFC6; animation: blink 1s infinite; }
+.background {
+fill: #000000;
+}
+
+.text {
+font-family: monospace;
+font-size: 16px;
+fill: #00FFC6;
+white-space: pre;
+}
+
+.cursor {
+fill: #00FFC6;
+animation: blink 1s infinite;
+}
 
 @keyframes blink {
-0%, 50%, 100% { opacity: 1; }
-25%, 75% { opacity: 0; }
+0%, 50%, 100% {opacity: 1;}
+25%, 75% {opacity: 0;}
+}
+
+.typing {
+overflow: hidden;
+border-right: 2px solid #00FFC6;
+white-space: nowrap;
+animation:
+typing 6s steps(120, end) forwards,
+erase 6s steps(120, end) 6s forwards,
+repeat 12s infinite;
+}
+
+@keyframes typing {
+from {width: 0}
+to {width: 660px}
+}
+
+@keyframes erase {
+from {width: 660px}
+to {width: 0}
+}
+
+@keyframes repeat {
+0% {width: 0}
+50% {width: 660px}
+100% {width: 0}
 }
 
 </style>
 
-<rect width="700" height="220" fill="#000000"/>
+<rect class="background" width="700" height="220"/>
 
-<text x="20" y="40" class="text">
-<tspan>$ whoami</tspan>
-<tspan x="20" dy="25">Sushobhit Chattaraj</tspan>
+<foreignObject x="20" y="30" width="660" height="180">
 
-<tspan x="20" dy="30">$ role</tspan> <tspan x="20" dy="25">Software Engineer</tspan>
+<div xmlns="http://www.w3.org/1999/xhtml" class="text typing">
 
-<tspan x="20" dy="30">$ focus</tspan> <tspan x="20" dy="25">AI/ML | Java Development | Cybersecurity</tspan>
+$ whoami<br/>
+Sushobhit Chattaraj<br/><br/>
 
-<tspan x="20" dy="30">$ status</tspan> <tspan x="20" dy="25">Building cool stuff...</tspan>
+$ role<br/>
+Software Engineer | Java Developer<br/><br/>
 
-<tspan class="cursor">█</tspan>
+$ focus<br/>
+AI/ML | Java Development | Cybersecurity<br/><br/>
 
-</text>
+$ status<br/>
+Building cool stuff...
+
+</div>
+
+</foreignObject>
 
 </svg>
