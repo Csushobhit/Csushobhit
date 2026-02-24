@@ -9,7 +9,7 @@
 <!-- MATRIX TYPING -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Researcher;Threat+Intelligence+Builder;Future+FAANG+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Builder+AIML Engineer" />
 </p>
 
 ---
@@ -127,7 +127,8 @@ Status: Building Future
 
 <p align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1&pause=3000&color=00FFC6&background=000000&repeat=true&width=700&height=200&lines=%24+whoami%0ASushobhit+Chattaraj%0A%0A%24+role%0ASoftware+Engineer+%7C+Java+Developer%0A%0A%24+focus%0AAI%2FML+%7C+Java+Development+%7C+Cybersecurity%0A%0A%24+status%0ABuilding+cool+stuff..." />
+<img src="https://readme-terminal.vercel.app/api?width=700&height=220&theme=dark&fontSize=14&cmd=$ whoami~Sushobhit Chattaraj~$ role~Software Engineer | Java Developer~$ focus~AI/ML | Java Development | Cybersecurity~$ status~Building cool stuff..." />
+
 </p>
 
 
