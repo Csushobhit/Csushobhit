@@ -97,7 +97,7 @@ Status: Building Future
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Csushobhit?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/sushobhitchattaraj?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 
 </p>
 
