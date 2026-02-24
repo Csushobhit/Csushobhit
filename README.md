@@ -64,7 +64,9 @@ Status: Building Future
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=csushobhit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&count_private=true&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=csushobhit&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csushobhit&theme=github_dark"/>
 
 </p>
 
