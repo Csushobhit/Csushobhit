@@ -9,7 +9,7 @@
 <!-- MATRIX TYPING -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=AI+Engineer;Cybersecurity+Researcher;Threat+Intelligence+Builder;OpenSearch+%7C+MISP+%7C+Maltrail;Future+FAANG+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Researcher;Threat+Intelligence+Builder;Future+FAANG+Engineer" />
 </p>
 
 ---
@@ -32,10 +32,10 @@
 
 ```yaml
 Name: Sushobhit Chattaraj
-Role: AI Engineer
-Focus: Cybersecurity
+Role: Software Engineer
+Focus: AI/ML, Java Development, Cybersecurity, Threat Intelligence, Backend, Systems
 OS: Linux
-Skills: [AI, Threat Intel, Backend, Systems]
+Skills: [AI/ML, Java, Threat Intel, Backend, Systems]
 Status: Building Future
 ```
 
@@ -93,11 +93,11 @@ Status: Building Future
 
 ---
 
-# 🏆 TROPHIES
+# 🧩 LEETCODE
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=csushobhit&theme=matrix&no-frame=true&no-bg=true"/>
+<img src="https://leetcard.jacoblin.cool/Csushobhit?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 
 </p>
 
@@ -125,19 +125,11 @@ Status: Building Future
 
 # ⚡ TERMINAL
 
-```bash
-> whoami
-Sushobhit Chattaraj
+<p align="center">
 
-> skills --list
-AI
-Cybersecurity
-Backend
-Threat Intelligence
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FFC6&background=000000&center=true&vCenter=true&width=600&lines=%24+whoami;Sushobhit+Chattaraj;%24+role;Software+Engineer+%7C+Java+Developer;%24+focus;AI%2FML+%7C+Java+Development+%7C+Cybersecurity;%24+status;Building+cool+stuff..." />
 
-> status
-Building cool stuff...
-```
+</p>
 
 ---
 
