@@ -9,7 +9,7 @@
 <!-- MATRIX TYPING -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Builder+AIML Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Builder;AIML Engineer" />
 </p>
 
 ---
