@@ -121,10 +121,8 @@ Status: Building Future
 
 # ⚡ TERMINAL
 
-<p align="left">
-
 <img src="assets/terminal.svg"/>
-</p>
+
 
 
 
