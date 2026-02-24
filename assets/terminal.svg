@@ -2,46 +2,47 @@
 
 <rect width="700" height="220" fill="#000000"/>
 
-<text x="20" y="40" font-family="monospace" font-size="16" fill="#00FFC6">
+<style>
+.line {
+font-family: monospace;
+font-size: 16px;
+fill: #00FFC6;
+opacity: 0;
+animation: show 8s infinite;
+}
 
-<tspan>
+.l1 { animation-delay: 0s; }
+.l2 { animation-delay: 1s; }
+.l3 { animation-delay: 2s; }
+.l4 { animation-delay: 3s; }
+.l5 { animation-delay: 4s; }
+.l6 { animation-delay: 5s; }
+.l7 { animation-delay: 6s; }
+.l8 { animation-delay: 7s; }
 
-<animate attributeName="textContent"
+@keyframes show {
+0% { opacity: 0; }
+10% { opacity: 1; }
+90% { opacity: 1; }
+100% { opacity: 0; }
+}
 
-values="
-$ whoami;
-$ whoami Sushobhit Chattaraj;
+.cursor {
+animation: blink 1s infinite;
+}
 
-$ whoami Sushobhit Chattaraj
-$ role;
-$ whoami Sushobhit Chattaraj
-$ role Software Engineer | Java Developer;
+@keyframes blink {
+0%,50%,100% {opacity:1;}
+25%,75% {opacity:0;}
+}
+</style>
 
-$ whoami Sushobhit Chattaraj
-$ role Software Engineer | Java Developer
-$ focus;
-$ whoami Sushobhit Chattaraj
-$ role Software Engineer | Java Developer
-$ focus AI/ML | Java Development | Cybersecurity;
+<text x="20" y="40" class="line l1">$ whoami</text> <text x="20" y="65" class="line l2">Sushobhit Chattaraj</text>
 
-$ whoami Sushobhit Chattaraj
-$ role Software Engineer | Java Developer
-$ focus AI/ML | Java Development | Cybersecurity
-$ status;
-$ whoami Sushobhit Chattaraj
-$ role Software Engineer | Java Developer
-$ focus AI/ML | Java Development | Cybersecurity
-$ status Building cool stuff...
+<text x="20" y="95" class="line l3">$ role</text> <text x="20" y="120" class="line l4">Software Engineer | Java Developer</text>
 
-;
-"
+<text x="20" y="150" class="line l5">$ focus</text> <text x="20" y="175" class="line l6">AI/ML | Java Development | Cybersecurity</text>
 
-dur="8s"
-
-repeatCount="indefinite"/>
-
-</tspan>
-
-</text>
+<text x="20" y="205" class="line l7">$ status Building cool stuff... <tspan class="cursor">█</tspan></text>
 
 </svg>
