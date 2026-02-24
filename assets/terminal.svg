@@ -1,76 +1,47 @@
-<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="220" xmlns="http://www.w3.org/2000/svg">
 
-<style>
+<rect width="700" height="220" fill="#000000"/>
 
-.background {
-fill: #000000;
-}
+<text x="20" y="40" font-family="monospace" font-size="16" fill="#00FFC6">
 
-.text {
-font-family: monospace;
-font-size: 16px;
-fill: #00FFC6;
-white-space: pre;
-}
+<tspan>
 
-.cursor {
-fill: #00FFC6;
-animation: blink 1s infinite;
-}
+<animate attributeName="textContent"
 
-@keyframes blink {
-0%, 50%, 100% {opacity: 1;}
-25%, 75% {opacity: 0;}
-}
+values="
+$ whoami;
+$ whoami Sushobhit Chattaraj;
 
-.typing {
-overflow: hidden;
-border-right: 2px solid #00FFC6;
-white-space: nowrap;
-animation:
-typing 6s steps(120, end) forwards,
-erase 6s steps(120, end) 6s forwards,
-repeat 12s infinite;
-}
+$ whoami Sushobhit Chattaraj
+$ role;
+$ whoami Sushobhit Chattaraj
+$ role Software Engineer | Java Developer;
 
-@keyframes typing {
-from {width: 0}
-to {width: 660px}
-}
+$ whoami Sushobhit Chattaraj
+$ role Software Engineer | Java Developer
+$ focus;
+$ whoami Sushobhit Chattaraj
+$ role Software Engineer | Java Developer
+$ focus AI/ML | Java Development | Cybersecurity;
 
-@keyframes erase {
-from {width: 660px}
-to {width: 0}
-}
+$ whoami Sushobhit Chattaraj
+$ role Software Engineer | Java Developer
+$ focus AI/ML | Java Development | Cybersecurity
+$ status;
+$ whoami Sushobhit Chattaraj
+$ role Software Engineer | Java Developer
+$ focus AI/ML | Java Development | Cybersecurity
+$ status Building cool stuff...
 
-@keyframes repeat {
-0% {width: 0}
-50% {width: 660px}
-100% {width: 0}
-}
+;
+"
 
-</style>
+dur="8s"
 
-<rect class="background" width="700" height="220"/>
+repeatCount="indefinite"/>
 
-<foreignObject x="20" y="30" width="660" height="180">
+</tspan>
 
-<div xmlns="http://www.w3.org/1999/xhtml" class="text typing">
-
-$ whoami<br/>
-Sushobhit Chattaraj<br/><br/>
-
-$ role<br/>
-Software Engineer | Java Developer<br/><br/>
-
-$ focus<br/>
-AI/ML | Java Development | Cybersecurity<br/><br/>
-
-$ status<br/>
-Building cool stuff...
-
-</div>
-
-</foreignObject>
+</text>
 
 </svg>
