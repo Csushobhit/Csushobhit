@@ -1,0 +1,31 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+
+.text { font-family: monospace; font-size: 16px; fill: #00FFC6; }
+.cursor { fill: #00FFC6; animation: blink 1s infinite; }
+
+@keyframes blink {
+0%, 50%, 100% { opacity: 1; }
+25%, 75% { opacity: 0; }
+}
+
+</style>
+
+<rect width="700" height="220" fill="#000000"/>
+
+<text x="20" y="40" class="text">
+<tspan>$ whoami</tspan>
+<tspan x="20" dy="25">Sushobhit Chattaraj</tspan>
+
+<tspan x="20" dy="30">$ role</tspan> <tspan x="20" dy="25">Software Engineer</tspan>
+
+<tspan x="20" dy="30">$ focus</tspan> <tspan x="20" dy="25">AI/ML | Java Development | Cybersecurity</tspan>
+
+<tspan x="20" dy="30">$ status</tspan> <tspan x="20" dy="25">Building cool stuff...</tspan>
+
+<tspan class="cursor">█</tspan>
+
+</text>
+
+</svg>
