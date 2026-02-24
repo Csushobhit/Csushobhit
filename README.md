@@ -125,13 +125,12 @@ Status: Building Future
 
 # ⚡ TERMINAL
 
-# ⚡ TERMINAL
+<p align="left">
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=2000&color=00FFC6&background=000000&center=true&vCenter=true&multiline=true&width=700&height=180&lines=%24+whoami%0ASushobhit+Chattaraj%0A%0A%24+role%0ASoftware+Engineer+%7C+Java+Developer%0A%0A%24+focus%0AAI%2FML+%7C+Java+Development+%7C+Cybersecurity%0A%0A%24+status%0ABuilding+cool+stuff..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=2000&color=00FFC6&background=000000&center=true&vCenter=true&repeat=true&width=700&height=200&lines=%24+whoami;Sushobhit+Chattaraj; ;%24+role;Software+Engineer+%7C+Java+Developer; ;%24+focus;AI%2FML+%7C+Java+Development+%7C+Cybersecurity; ;%24+status;Building+cool+stuff..." />
 
 </p>
+
 
 
 </p>
