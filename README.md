@@ -1,42 +1,32 @@
-<!-- MATRIX HEADER -->
+<!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F1F,100:00FFC6&height=240&section=header&text=Sushobhit%20Chattaraj&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFC6&height=240&section=header&text=Sushobhit%20Chattaraj&fontSize=52&fontColor=00FFC6&animation=fadeIn"/>
 </p>
-
----
 
 <!-- MATRIX TYPING -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=AI+Engineer;Cybersecurity+Researcher;Threat+Intelligence+Builder;OpenSearch+%7C+MISP+%7C+Maltrail;Future+FAANG+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Developer;Cybersecurity+Enthusiast;Threat+Intelligence+Learner;Building+Scalable+Systems"/>
 </p>
 
----
-
-<!-- BADGES -->
+<!-- VISITOR -->
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=csushobhit&label=VISITORS&color=00ffc6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/csushobhit?style=for-the-badge&color=00ffc6"/>
-
-<img src="https://img.shields.io/github/stars/csushobhit?style=for-the-badge&color=00ffc6"/>
-
+<img src="https://komarev.com/ghpvc/?username=csushobhit&label=PROFILE+VIEWS&color=00ffc6&style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚡ SYSTEM STATUS
+# ⚡ SYSTEM
 
 ```yaml
 Name: Sushobhit Chattaraj
-Role: AI Engineer
-Focus: Cybersecurity
-OS: Linux
-Skills: [AI, Threat Intel, Backend, Systems]
-Status: Building Future
+Role: Software Engineer
+Focus: Java, Java Development, Cybersecurity, Threat Intelligence
+Primary Language: Java
+Location: India
+Status: Building and Learning
 ```
 
 ---
@@ -45,39 +35,31 @@ Status: Building Future
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,aws,mysql,mongodb,flask,tensorflow,pytorch,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,linux,git,github,mysql,mongodb,flask,aws,html,css&theme=dark"/>
 
 </p>
 
 ---
 
-# 📊 LIVE STATS
+# 📊 GITHUB STATS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=csushobhit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=csushobhit&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=csushobhit&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=csushobhit&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🧬 3D CONTRIBUTION GRAPH
+# 📈 CONTRIBUTION DASHBOARD
 
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csushobhit&theme=github_dark"/>
 
-</p>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=csushobhit&theme=react-dark&bg_color=000000&color=00FFC6&line=00FFC6&point=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=csushobhit&theme=github_dark"/>
 
 </p>
 
@@ -93,11 +75,21 @@ Status: Building Future
 
 ---
 
-# 🏆 TROPHIES
+# ⚡ AUTO METRICS
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=csushobhit&theme=matrix&no-frame=true&no-bg=true"/>
+<img src="https://raw.githubusercontent.com/csushobhit/csushobhit/main/github-metrics.svg"/>
+
+</p>
+
+---
+
+# 🧩 LEETCODE STATS
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Csushobhit?theme=dark&font=JetBrains%20Mono"/>
 
 </p>
 
@@ -129,18 +121,22 @@ Status: Building Future
 > whoami
 Sushobhit Chattaraj
 
-> skills --list
-AI
+> role
+Software Engineer | Java Developer
+
+> focus
+Java Development
 Cybersecurity
-Backend
 Threat Intelligence
 
 > status
-Building cool stuff...
+Building scalable and secure systems
 ```
 
 ---
 
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
+
 </p>
