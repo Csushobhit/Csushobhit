@@ -125,7 +125,7 @@ Status: Building Future
 
 # ⚡ TERMINAL
 
-<p align="left">
+<p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=2000&color=00FFC6&background=000000&center=true&vCenter=true&repeat=true&width=700&height=200&lines=%24+whoami;Sushobhit+Chattaraj; ;%24+role;Software+Engineer+%7C+Java+Developer; ;%24+focus;AI%2FML+%7C+Java+Development+%7C+Cybersecurity; ;%24+status;Building+cool+stuff..." />
 
