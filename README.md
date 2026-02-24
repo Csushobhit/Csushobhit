@@ -64,7 +64,7 @@ Status: Building Future
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csushobhit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=csushobhit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&count_private=true&langs_count=8"/>
 
 </p>
 
