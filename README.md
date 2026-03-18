@@ -44,7 +44,7 @@ Status: Building Future
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,aws,mysql,mongodb,flask,tensorflow,pytorch,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,aws,mysql,mongodb,flask,tensorflow,pytorch,html,css,postgresql,jdbc,hibernate,springboot,opensearchdb&theme=dark"/>
 
 </p>
 
