@@ -33,7 +33,7 @@
 ```yaml
 Name: Sushobhit Chattaraj
 Role: Software Engineer
-Focus: AI/ML, Java Development, Cybersecurity, Threat Intelligence, Backend, Systems
+Focus: AI/ML, Java Development,  Threat Intelligence, Backend, Systems
 OS: Linux
 Skills: [AI/ML, Java, Threat Intel, Backend, Systems]
 Status: Building Future
@@ -44,7 +44,7 @@ Status: Building Future
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,aws,mysql,mongodb,flask,tensorflow,pytorch,html,css,postgresql,jdbc,hibernate,springboot,opensearchdb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,linux,git,aws,mysql,mongodb,flask,tensorflow,pytorch,html,css,postgresql,jdbc,hibernate,springboot,opensearchdb&theme=dark"/>
 
 </p>
 
