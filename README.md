@@ -42,13 +42,15 @@ Status: Building Future
 
 # 🧠 TECH STACK
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,jdbc,python,cpp&theme=dark"/><br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,jdbc,python,cpp&theme=dark"/>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,mongodb,linux,git,flask,tensorflow,pytorch,html,css&theme=dark"/>
 
-</p>
+</div>
 
 
 
